@@ -1,0 +1,21 @@
+
+h5{
+	color: green;
+}
+	.head5{
+		background-color: yellow;
+}
+.red{
+	border-width: 5px;
+	border-style: dashed;
+	border-color: blue; 
+}
+#heading1{
+	font-size: 60px;
+
+}
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: rgba(00,00,00,.9);
+}
